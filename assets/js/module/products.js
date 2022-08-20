@@ -1,4 +1,3 @@
-
 import { items } from '../data/db.js'
 import { cart, renderC} from './cart.js'
 import { price } from '../product-help/price.js'
